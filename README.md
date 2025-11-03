@@ -1,4 +1,4 @@
-# Repository for the OpenShift Training for Fujitsu
+# Repository for the OpenShift Training for Partners
 
 ## Agenda
 
