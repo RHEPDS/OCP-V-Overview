@@ -9,8 +9,8 @@
 + 11:40 - 12:00 Platform Services, KNative, CI/CD, GitOps, Application Services...
 + 12:00 - 14:00 Lunch and Hands-On Lab, "OpenShift Overview and Development"
 
-+ LAB Link 1: https://catalog.demo.redhat.com/workshop/7nw9vw
-+ LAB Link 2: https://catalog.demo.redhat.com/workshop/phc6u7
++ LAB Link 1: https://catalog.demo.redhat.com/workshop/mnmhrq
+
 + https://github.com/RHEPDS/OCP-V-Overview/blob/main/slides/OpenShift%20Overview%20.pdf
 
 ### Day 2 - OpenShift Virtualisation 
@@ -21,4 +21,4 @@
 + 15:10 - 16:00 Partner Ecosystem and Customer Experience
 + 16:00 - 17:00 Hands-On LAB "OpenShift Virtualisation"
 
-+ Slides: 
+
