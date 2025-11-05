@@ -11,8 +11,6 @@
 
 + LAB Link 1: https://catalog.demo.redhat.com/workshop/mnmhrq
 
-+ https://github.com/RHEPDS/OCP-V-Overview/blob/main/slides/OpenShift%20Overview%20.pdf
-
 ### Day 2 - OpenShift Virtualisation 
 
 + 14:00 - 14:15 Recap
